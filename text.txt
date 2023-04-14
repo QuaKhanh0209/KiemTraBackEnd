@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Day la o folder123
+=======
+Day la o GitHub
+>>>>>>> tdc
